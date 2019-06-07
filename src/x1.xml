@@ -11,4 +11,28 @@
 		<Phone>555-555-5555</Phone>
 	</CustomerDetails>
 </Account>
+<Account>
+	<AccountID>300</AccountID>
+	<AccNum>3212212</AccNum>
+	<AccountType>Savings</AccountType>
+	<BankName>Wells Fargo Bank</BankName>
+	<CustomerDetails>
+		<FirstName>Chris</FirstName>
+		<LastName>Allen</LastName>
+		<Address>56 East Sherman St.</Address>
+		<Phone>555-666-5555</Phone>
+	</CustomerDetails>
+</Account>
+<Account>
+	<AccountID>400</AccountID>
+	<AccNum>5212212</AccNum>
+	<AccountType>Checking</AccountType>
+	<BankName>PNC Bank</BankName>
+	<CustomerDetails>
+		<FirstName>Ryan</FirstName>
+		<LastName>Ros</LastName>
+		<Address>59 East Sherman St.</Address>
+		<Phone>555-777-5555</Phone>
+	</CustomerDetails>
+</Account>
 </AccountDet>
