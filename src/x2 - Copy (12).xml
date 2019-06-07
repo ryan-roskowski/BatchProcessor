@@ -1,0 +1,14 @@
+<AccountDet>
+<Account>
+	<AccountID>200</AccountID>
+	<AccNum>1212212</AccNum>
+	<AccountType>Checking</AccountType>
+	<BankName>PNC Bank</BankName>
+	<CustomerDetails>
+		<FirstName>John</FirstName>
+		<LastName>Wick</LastName>
+		<Address>54 East Sherman St.</Address>
+		<Phone>555-555-5555</Phone>
+	</CustomerDetails>
+</Account>
+</AccountDet>
